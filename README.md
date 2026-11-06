@@ -1,144 +1,136 @@
-## Heyy! Eu sou Guilherme Reis ;)
-### Desenvolvedor Full Stack
+<div align="center">
 
- <div>
-  <a href="https://github.com/guilhermereis1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermereis1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1&layout=compact&langs_count=7&theme=omni"/>
+# Hi, I'm Guilherme Reis 👋
+
+**Software Engineer @Devlabs · Full Stack · Backend & Cloud**
+
+Building software professionally since 2014 — APIs, financial systems, data-heavy frontends and the infrastructure behind them.
+
+<a href="https://www.linkedin.com/in/guilhermereis99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:guilhermejosereis@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=guilhermereis1&style=flat-square&color=blueviolet&label=Profile+views" alt="Profile views"/>
+
 </div>
-<div style="display: inline_block"><br>
-  <img
-  align="center"
-  alt="Guilherme-RUBY"
-  height="30"
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"
-/>
-<img
-  align="center"
-  alt="Guilherme-RUBY"
-  height="30"
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
-/>
-<img
-  align="center"
-  alt="Guilherme-RUBY"
-  height="30"
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
-/>
-<img
-  align="center"
-  alt="Guilherme-RUBY"
-  height="30"
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-<img
-  align="center"
-  alt="Guilherme-RUBY"
-  height="30"
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
-/>
-<img
-   height="30"
-  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-/>
+
+---
+
+### ⚡ At a glance
+
+- **Rails specialist** — APIs, admin panels, background jobs (Sidekiq, Bull), WebSockets, multi-tenant apps
+- **Full stack** — React, Next.js, Redux and React Native for web dashboards and mobile apps
+- **Strong on testing** — RSpec, TDD, unit, integration, E2E, acceptance and performance tests
+- **Ships to production** — Docker, Kubernetes, AWS (S3, Lambda), CI/CD, Fly.io, Dokku
+- **End-to-end ownership** — I gather requirements, design the solution, build it and put it online
+- **Clean code** — SOLID, DDD, design patterns, Agile/Scrum
+- **Remote-ready** — worked with teams from Paraguay, Portugal and Spain
+
+### 🔭 What I'm working on
+
+- Multi-tenant **financial management systems** with Rails and React/Next.js dashboards
+- **Database integrations** with PostgreSQL, Oracle and legacy systems
+- **Brazilian market software** — fiscal integrations (NFC-e) and POS systems
+- **AI-powered features** — LLM integrations, agents, OpenRouter
+
+### 🌱 Currently exploring
+
+Rust, Go and Elixir for systems work · Kubernetes for container orchestration
+
+---
+
+### 💼 Experience
+
+**Devlabs** — Software Engineer · *Jul 2025 – Present* · Goiânia, BR
+> Full stack and infrastructure work across client projects: Rails, Next.js, PostgreSQL/Oracle, cloud deployments and AI integrations.
+
+**Apolus Tecnologia** — Ruby on Rails Developer · *Sep 2022 – Jan 2024* · São Paulo, BR
+> Maintained and tested the API of a school management system running on Docker. Built a Node.js API for biometric student access, using Bull queues and Redis. Agile/Scrum.
+
+**Nobordist** — Full Stack Developer · *Feb 2022 – Sep 2022*
+> International parcel delivery and tracking platform. Rails API built with TDD, React frontend.
+
+**Nuvem Tecnologia** — Frontend Developer · *Jan 2021 – Jan 2022*
+> Financial market application. Rendered large volumes of real-time data with React, Hooks and Redux.
+
+**Amazonia Sistemas** — Full Stack Developer · *Jan 2019 – Dec 2020*
+> Built a Trello-like Kanban product with Rails, React, WebSockets and React Native.
+
+**TechMirror Lab** — Backend Ruby Developer · *Mar 2014 – Nov 2018*
+> Rails systems with TDD/RSpec, microservices, AWS (Lambda, S3) and payment gateways (Iugu, PagSeguro). Built a health plan management system with a full approval pipeline for new members.
+
+<details>
+<summary><b>Freelance projects (2019 – 2020)</b></summary>
+
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **BillsToPay** | Accounts payable and receivable | Rails, PostgreSQL, Sidekiq, WebSockets |
+| **Grows Capital** | Investment tracking: investors, amounts and daily returns | Rails, Sidekiq, WebSockets, PostgreSQL |
+| **Digital Catalog** | PWA catalog of local businesses and products | React PWA, Redux, Rails API + admin, S3 |
+| **NPS App** | Net Promoter Score mobile app with web dashboard | React Native, React, Rails API, PostgreSQL |
+| **Economize Ainda Mais** | Price comparison across regional supermarkets | Rails, Docker, DDD, REST API, PostgreSQL |
+
+</details>
+
+---
+
+### 🛠️ Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ruby,ts,js,elixir,rust,go,python,html,css,bash&perline=12" alt="Languages"/>
+
+**Frameworks & Backend**
+
+<img src="https://skillicons.dev/icons?i=rails,nextjs,react,redux,nodejs,nestjs,adonis,graphql,prisma&perline=12" alt="Frameworks"/>
+&nbsp;+ React Native · Sidekiq · Bull
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite,supabase,firebase&perline=12" alt="Databases"/>
+&nbsp;+ Oracle
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux&perline=12" alt="Cloud and DevOps"/>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean"/>
+&nbsp;+ Fly.io · Dokku
+
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=jest,cypress,vitest&perline=12" alt="Testing"/>
+&nbsp;+ RSpec
+
+---
+
+### 🎓 Education & Languages
+
+- **B.Sc. Systems Analysis and Development** — PUC Paraná · *2020 – 2024*
+- **English** — full professional · General English at EC Cambridge, UK (2024)
+- **Spanish** — limited working
+- **Portuguese** — native
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermereis1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=guilhermereis1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
 </div>
-  
-  ##
- 
-<div>
-  <a href="https://www.instagram.com/reis_guilherme1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermereis27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermereis99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/guilhermereis1/guilhermereis1/blob/output/github-contribution-grid-snake.svg)
- 
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg"/>
+  <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-south-season-animate.svg"/>
+</picture>
+
 </div>
