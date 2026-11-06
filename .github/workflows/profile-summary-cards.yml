@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
     steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           # To count private contributions, create a PAT secret and use it here instead
