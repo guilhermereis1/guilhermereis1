@@ -2,7 +2,7 @@
 
 # Hi, I'm Guilherme Reis 👋
 
-**Software Engineer @Devlabs · Full Stack · Backend & Cloud**
+**Software Engineer @ Devlabs · Full Stack · Backend & Cloud**
 
 Building software professionally since 2014 — APIs, financial systems, data-heavy frontends and the infrastructure behind them.
 
@@ -116,8 +116,10 @@ Rust, Go and Elixir for systems work · Kubernetes for container orchestration
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermereis1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermereis1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language"/>
 
 <img src="https://streak-stats.demolab.com?user=guilhermereis1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
