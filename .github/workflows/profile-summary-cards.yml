@@ -1,0 +1,24 @@
+# Save as .github/workflows/profile-summary-cards.yml in the guilhermereis1/guilhermereis1 repository
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # 00:30 in Brasília (runs after the 3D calendar)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # To count private contributions, create a PAT secret and use it here instead
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
